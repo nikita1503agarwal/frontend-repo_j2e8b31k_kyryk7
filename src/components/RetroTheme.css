@@ -1,0 +1,20 @@
+/* CSS variables for retro themes */
+:root {
+  --title-active: #000080;
+  --title-inactive: #808080;
+  --win-bg: #c0c0c0;
+  --win-inner: #dcdcdc;
+  --btn-bg: #dcdcdc;
+}
+
+html[data-theme='teal'] {
+  --title-active: #006666;
+}
+html[data-theme='gray'] {
+  --title-active: #3f3f3f;
+}
+html[data-theme='beige'] {
+  --title-active: #8b6b3e;
+}
+
+.image-render-pixel { image-rendering: pixelated; }

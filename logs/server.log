@@ -1,0 +1,16 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 255 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.0.18:3000/
+[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+10 |  }
+11 |  
+12 |  @import './components/RetroTheme.css';
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+13 |  
+14 |  /* Retro helpers */

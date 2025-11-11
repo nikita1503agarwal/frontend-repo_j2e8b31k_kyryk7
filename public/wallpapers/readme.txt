@@ -1,0 +1,1 @@
+Placeholder note: add pixel-art wallpapers w1.png..w5.png in this folder.
